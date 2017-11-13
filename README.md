@@ -2,6 +2,8 @@
 
 INSTALATION INSTRUCTIONS
 
+Create folder named "Images" and copy three images from the repository into that folder.
+
 To run this web site, just run "home.html" file from Site folder.
 
 Now, you have web site in front of you, in search field you can start typing in you favourite character name.
